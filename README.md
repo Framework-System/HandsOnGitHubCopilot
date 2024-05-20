@@ -1,4 +1,4 @@
-# Hands-on: Demonstrando o Potencial do GitHub Copilot em Acelerar o Trabalho com C#/.NET
+# Hands-on: Demonstrando o Potencial do GitHub Copilot com C#/.NET
 
 **Objetivo:** Demonstrar como o GitHub Copilot pode acelerar o desenvolvimento de software, fornecendo sugestões e completando código automaticamente em C#/.NET.
 
